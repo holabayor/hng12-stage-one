@@ -7,7 +7,7 @@ app.get('/', (req, res) => {
   res.json({
     email: 'liasu.olabayo@gmail.com',
     current_datetime: new Date().toISOString(),
-    github_url: 'https://github.com/holabayor',
+    github_url: 'https://github.com/holabayor/hng12-stage-one',
   });
 });
 

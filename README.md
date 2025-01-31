@@ -1,4 +1,4 @@
-# HNG 12 Backend Stage One Task
+# HNG 12 Backend Stage Zero Task
 
 This is a simple Node.js server using Express that returns a JSON response with an email, the current datetime in ISO 8601 UTC format, and a GitHub URL.
 
@@ -15,8 +15,8 @@ This is a simple Node.js server using Express that returns a JSON response with 
 1. **Clone the repository**
 
    ```sh
-   git clone https://github.com/yourusername/simple-node-server.git
-   cd simple-node-server
+   git clone https://github.com/holabayor/hng12-stage-one.git
+   cd hng12-stage-one
    ```
 
 2. **Install dependencies**
@@ -42,7 +42,7 @@ This is a simple Node.js server using Express that returns a JSON response with 
 {
   "email": "your-email@example.com",
   "current_datetime": "2025-01-31T12:00:00.000Z",
-  "github_url": "https://github.com/yourusername"
+  "github_url": "https://github.com/holabayor/hng12-stage-one"
 }
 ```
 
